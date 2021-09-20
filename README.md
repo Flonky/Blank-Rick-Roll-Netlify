@@ -1,5 +1,7 @@
 # Blank-Rick-Roll
 
+https://app.netlify.com/start/deploy?repository=https://github.com/Flonky/Blank-Rick-Roll-Netlify
+
 Rick Roll website that has hidden code. (But edited to work with netlify)
 
 🔗 The netlify Website: [therickroll.netlify.app](https://therickroll.netlify.app)
