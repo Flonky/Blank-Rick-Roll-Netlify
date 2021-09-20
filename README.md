@@ -1,6 +1,7 @@
 # Blank-Rick-Roll
 
-https://app.netlify.com/start/deploy?repository=https://github.com/Flonky/Blank-Rick-Roll-Netlify
+
+[![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Flonky/Blank-Rick-Roll-Netlify)
 
 Rick Roll website that has hidden code. (But edited to work with netlify)
 
